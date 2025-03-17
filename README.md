@@ -3,7 +3,8 @@ An exploration of the 2025 NFL Big Data Bowl data
 
 In this assignment I have cleaned and explored some of the data from this Kaggle competition for use in a data visualization dashboard assignment.
 
-The file descriptions and data information are shared below:
+The file descriptions and data information are shared below, as copied from https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/data:
+
 File descriptions
 
 Game data: The games.csv contains the teams playing in each game. The key variable is gameId.
